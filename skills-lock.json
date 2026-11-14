@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "skills": {
+    "grill-me": {
+      "source": "youdotcom-oss/agent-skills",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/grill-me/SKILL.md",
+      "computedHash": "1e58e8df2d7a30fb8b8597a03b9b7ce3c4886012cbbc54f696db05db6c6cb168"
+    },
+    "karpathy-guidelines": {
+      "source": "youdotcom-oss/agent-skills",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/karpathy-guidelines/SKILL.md",
+      "computedHash": "e64131803b0a34b8c39afc11338a74f8305cf8f69f750620bdf6cb38f6865c52"
+    },
+    "tdd": {
+      "source": "youdotcom-oss/agent-skills",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/tdd/SKILL.md",
+      "computedHash": "f509f4d7dbe88a0728eba2bb0a388139e637593655eeecabc800a509de1967ff"
+    },
+    "you-discover": {
+      "source": "youdotcom-oss/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/you-discover/SKILL.md",
+      "computedHash": "1fb86152b17921c5660d89f7067446593449e6279c44e2dee98163e1696d6d94"
+    },
+    "you-finance": {
+      "source": "youdotcom-oss/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/you-finance/SKILL.md",
+      "computedHash": "d2eec481cf0e7dc37ed0c3a4834fa7a40b8239511d69b53fc7709a53551e9a1f"
+    },
+    "you-research": {
+      "source": "youdotcom-oss/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/you-research/SKILL.md",
+      "computedHash": "367fcd46bf4d6bad75878e725b8f29c387cb969625cfa5ba6a1e2d40c04c5485"
+    },
+    "you-web": {
+      "source": "youdotcom-oss/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/you-web/SKILL.md",
+      "computedHash": "c45a511d829e05e20d3ddd572a0673dfcafb5f94109a4f31c111ff135bfdfa39"
+    },
+    "zoowork-managed-agents": {
+      "source": "SerendipityOneInc/zoowork-sdk-skills",
+      "sourceType": "github",
+      "skillPath": "skills/zoowork-managed-agents/SKILL.md",
+      "computedHash": "02d6abb88831fef105cf3741fe15701fc67cb3e2a3439ddd3aed9fa7f8a17ca8"
+    }
+  }
+}
